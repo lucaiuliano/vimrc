@@ -1,0 +1,9 @@
+[submodule "my_plugins/nerdtree"]
+	path = my_plugins/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "my_plugins/vim-devicons"]
+	path = my_plugins/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "my_plugins/vim-nerdtree-syntax-highlight"]
+	path = my_plugins/vim-nerdtree-syntax-highlight
+	url = https://github.com/tiagofumo/vim-nerdtree-syntax-highlight
