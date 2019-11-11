@@ -41,6 +41,9 @@ https://github.com/itchyny/lightline.vim
 
 landscape is my colorscheme, which is a high-contrast cterm-supported colorscheme, available at https://github.com/itchyny/landscape.vim
 
+
+For screenshots of all available colorshemes, see [this file](colorscheme.md).
+
 ## Why yet another clone of powerline?
 + [vim-powerline](https://github.com/Lokaltog/vim-powerline) is a nice plugin, but deprecated.
 + [powerline](https://github.com/powerline/powerline) is a nice plugin, but difficult to configure.
